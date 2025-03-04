@@ -35,15 +35,3 @@ function newPassword() {
 
     }
 }
-
-
-
-
-
-
-
-
-    // for ( let i = 0; i < characters.length; i++){
-    //   let characterIndex = Math.floor( Math.random() *characters.length)
-    //  return characters[characterIndex]
-    //    } 
